@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GrandMarch
-- 👀 I’m interested in QT & C#
-- 🌱 I’m currently learning  ffmpeg
+- 👀 I’m interested in C#
 - 📫 izhanghe@foxmail.com
 
 
